@@ -44,4 +44,4 @@ THEN I am taken to the corresponding section of the README
 
 ### My README.md file sample:
 
-### URL of the GitHub repository:
+### URL of the GitHub repository: https://github.com/Getitdonemin/Mins-Professional-README-Generator/tree/main
