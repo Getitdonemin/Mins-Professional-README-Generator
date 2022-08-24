@@ -40,8 +40,8 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-### Video Demonstration:
+### Video Demonstration: [Readme Generator Video.webm](https://user-images.githubusercontent.com/107437104/186307995-969cb894-ff2b-40eb-849f-ee3af8c2ed6c.webm)
 
-### My README.md file sample:
+### My README.md file sample: ![Readme Generator](https://user-images.githubusercontent.com/107437104/186307486-a85ab0e5-9a6e-432f-a8a6-f8956ed911ef.JPG)
 
 ### URL of the GitHub repository: https://github.com/Getitdonemin/Mins-Professional-README-Generator
